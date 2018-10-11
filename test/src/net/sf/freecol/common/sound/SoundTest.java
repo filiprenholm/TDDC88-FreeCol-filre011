@@ -16,7 +16,7 @@
  *  You should have received a copy of the GNU General Public License
  *  along with FreeCol.  If not, see <http://www.gnu.org/licenses/>.
  */
-
+// This is a comment
 package net.sf.freecol.common.sound;
 
 import java.io.File;
